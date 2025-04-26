@@ -49,3 +49,5 @@ Char has park kind arch marry.
 Char has park kind arch land.
 
 Char is did.
+
+Char has major.
