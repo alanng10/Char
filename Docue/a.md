@@ -50,6 +50,8 @@ Char has park kind arch land.
 
 Char has park mark.
 
+Char has park cross.
+
 Char is did.
 
 Char has major.
